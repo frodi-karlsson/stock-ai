@@ -1,0 +1,23 @@
+{
+  "name": "stock-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "pnpx tsx testSuite.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.2",
+  "devDependencies": {
+    "@types/node": "^24.0.7",
+    "tsx": "^4.20.3"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  }
+}
