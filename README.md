@@ -7,3 +7,6 @@ Some choice non-implemented features:
 - Advanced data preprocessing
 - Multiple target features
 - Any sort of measures against overfitting
+
+Here's what it looks like:
+![Screenshot of console output](assets/image.png)
